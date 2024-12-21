@@ -1,0 +1,6 @@
+# CMake build directories
+/build
+/build-debug-linux/
+/build-release-linux/
+/build-debug-windows-mingw/
+/build-release-windows-mingw/
